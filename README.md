@@ -8,3 +8,5 @@ Steps :
 3) Submit your task screenshots on the issue you created above and explain what you did to obtain the result step wise with each screenshot
 
    Happy Learning!!
+
+   ![image](https://github.com/sujithkumar27/October_opensource_Viit23/assets/116999336/c9eea095-93ce-4617-98e6-e1d7782c5513)
